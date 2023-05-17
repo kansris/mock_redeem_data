@@ -1,34 +1,25 @@
 {
-    "status": true,
-    "message": "Data ditemukan",
-    "data": [
-        {
-            "id": "1",
-            "username": "admin",
-            "password": "d033e22ae348aeb5660fc2140aec35850c4da997",
-            "nama": "admin",
-            "token": "2a5c97cb31308b8d818da33a041fa47d"
-        },
-        {
-            "id": "3",
-            "username": "sani",
-            "password": "86862f0600c8b9829d9ca9c8aaca3f0727b44b6e",
-            "nama": "Sani Sandhika",
-            "token": "661e23835d27f9d45cf371f59533f163"
-        },
-        {
-            "id": "4",
-            "username": "seno",
-            "password": "d61a4fe61485d6437b698c11635d8fb8c5b79d2f",
-            "nama": "Seno",
-            "token": "7b9f0f54ca01c323bc810206adcaa38c"
-        },
-        {
-            "id": "5",
-            "username": "username",
-            "password": "5baa61e4c9b93f3f0682250b6cf8331b7ee68fd8",
-            "nama": "nama",
-            "token": null
-        }
-    ]
+  "data": [
+    {
+      "id": 1,
+      "brandNameTH": "เอไอเอส พอยท์",
+      "descTh": "Case iPhone 6s (Blue)",
+      "defaultImg": "https://assets.beartai.com/uploads/2022/02/ais-leak.jpg",
+      "points": 400
+    },
+    {
+      "id": 2,
+      "brandNameTH": "อุ่นใจ",
+      "descTh": "Case iPhone 6s (Blue)",
+      "defaultImg": "https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png",
+      "points": 150
+    },
+    {
+      "id": 3,
+      "brandNameTH": "เอไอเอส พอยท์",
+      "descTh": "Grab Food",
+      "defaultImg": "https://file.aimcontent.co/BrandAge/images/paragraph/5F4FF16-8652B72-E2CDC56.png",
+      "points": 60
+    }
+  ]
 }

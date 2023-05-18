@@ -1,24 +1,26 @@
-[
-    {
-      "id": 1,
-      "brandNameTH": "เอไอเอส พอยท์",
-      "descTh": "Case iPhone 6s (Blue)",
-      "defaultImg": "https://assets.beartai.com/uploads/2022/02/ais-leak.jpg",
-      "points": 400
-    },
-    {
-      "id": 2,
-      "brandNameTH": "อุ่นใจ",
-      "descTh": "Case iPhone 6s (Blue)",
-      "defaultImg": "https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png",
-      "points": 150
-    },
-    {
-      "id": 3,
-      "brandNameTH": "เอไอเอส พอยท์",
-      "descTh": "Grab Food",
-      "defaultImg": "https://file.aimcontent.co/BrandAge/images/paragraph/5F4FF16-8652B72-E2CDC56.png",
-      "points": 60
-    }
-]
+{
+    "data": [
+        {
+          "id": 1,
+          "brandNameTH": "เอไอเอส พอยท์",
+          "descTh": "Case iPhone 6s (Blue)",
+          "defaultImg": "https://assets.beartai.com/uploads/2022/02/ais-leak.jpg",
+          "points": 400
+        },
+        {
+          "id": 2,
+          "brandNameTH": "อุ่นใจ",
+          "descTh": "Case iPhone 6s (Blue)",
+          "defaultImg": "https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png",
+          "points": 150
+        },
+        {
+          "id": 3,
+          "brandNameTH": "เอไอเอส พอยท์",
+          "descTh": "Grab Food",
+          "defaultImg": "https://file.aimcontent.co/BrandAge/images/paragraph/5F4FF16-8652B72-E2CDC56.png",
+          "points": 60
+        }
+    ]
+}
 

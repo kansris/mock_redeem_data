@@ -1,20 +1,22 @@
-[
-    {
-      "id": 1,
-      "title": "เอไอเอส พอยท์",
-      "url": "Case iPhone 6s (Blue)",
-      "thumbnailUrl": "https://assets.beartai.com/uploads/2022/02/ais-leak.jpg"
-    },
-    {
-      "id": 2,
-      "title": "อุ่นใจ",
-      "url": "Case iPhone 6s (Blue)",
-      "thumbnailUrl": "https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png"
-    },
-    {
-      "id": 3,
-      "title": "เอไอเอส พอยท์",
-      "url": "Grab Food",
-      "thumbnailUrl": "https://file.aimcontent.co/BrandAge/images/paragraph/5F4FF16-8652B72-E2CDC56.png"
-    }
-]
+{
+    "data": [
+        {
+          "id": 1,
+          "title": "เอไอเอส พอยท์",
+          "url": "Case iPhone 6s (Blue)",
+          "thumbnailUrl": "https://assets.beartai.com/uploads/2022/02/ais-leak.jpg"
+        },
+        {
+          "id": 2,
+          "title": "อุ่นใจ",
+          "url": "Case iPhone 6s (Blue)",
+          "thumbnailUrl": "https://hwc-statics.ais.th/aunjai/images/aunjai_evo_66body_mb.png"
+        },
+        {
+          "id": 3,
+          "title": "เอไอเอส พอยท์",
+          "url": "Grab Food",
+          "thumbnailUrl": "https://file.aimcontent.co/BrandAge/images/paragraph/5F4FF16-8652B72-E2CDC56.png"
+        }
+    ]
+}

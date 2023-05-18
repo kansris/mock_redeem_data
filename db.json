@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     {
       "id": 1,
       "brandNameTH": "เอไอเอส พอยท์",
@@ -21,5 +20,5 @@
       "defaultImg": "https://file.aimcontent.co/BrandAge/images/paragraph/5F4FF16-8652B72-E2CDC56.png",
       "points": 60
     }
-  ]
-}
+]
+
